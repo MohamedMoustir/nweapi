@@ -1,68 +1,67 @@
-{"worldfot":[
+{
+  "worldfot": [
     {
       "id": 2,
-      "name": "AFC Champions League",
+      "name": "Ligue des Champions de l'AFC",
       "code": "ACL",
-      "description": "The AFC Champions League is the premier club competition in Asia, contested by top football clubs from the continent's domestic leagues.",
+      "description": "La Ligue des Champions de l'AFC est la compétition de clubs la plus prestigieuse d'Asie, disputée par les meilleurs clubs de football des ligues nationales du continent.",
       "image": "https://logowik.com/content/uploads/images/afc-champions-league1947.jpg"
     },
     {
       "id": 3,
-      "name": "WC Qualification CAF",
+      "name": "Qualification Coupe du Monde CAF",
       "code": "QCAF",
-      "description": "The WC Qualification CAF is the qualification tournament for the FIFA World Cup, featuring national teams from the Confederation of African Football (CAF).",
+      "description": "La Qualification Coupe du Monde CAF est le tournoi de qualification pour la Coupe du Monde de la FIFA, réunissant les équipes nationales de la Confédération Africaine de Football (CAF).",
       "image": "https://www.faapa.info/en/wp-content/uploads/sites/8/2022/12/CAF-2-1.jpg"
     },
     {
       "id": 4,
       "name": "Primera B Nacional",
       "code": "PBN",
-      "description": "The Primera B Nacional is the second division of the Argentine football league system, featuring clubs aiming to secure promotion to the Primera División.",
+      "description": "La Primera B Nacional est la deuxième division du système de ligue de football argentin, où les clubs visent la promotion en Primera División.",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpw2z-bYiAdiDIe1vUGXVXwAIqAwKAqQc5grxWWqwlPE-Upx2Pkt3sXYtgfdZY9uSByLBPg3B3tXLNYIAZR8u5WFq3awehip503TWMzkVS8IIIXUYR6SDgIJ_Gbru0gLK6BBC4uQcj38HSLOaAgVPfaigk_2002AHbjMCv6etg2Ftsy04scu52lyyCw4k/s256/Primera%20Nacional256x.png"
     },
     {
       "id": 5,
       "name": "Liga Profesional",
       "code": "ASL",
-      "description": "The Liga Profesional is the top professional football division in Argentina, featuring the best clubs in the country competing for the national championship.",
+      "description": "La Liga Profesional est la première division professionnelle de football en Argentine, regroupant les meilleurs clubs du pays en compétition pour le championnat national.",
       "image": "https://tiermaker.com/images/templates/primera-y-b-nacional-de-la-liga-argentina-2022-15267838/152678381660189562.png"
     },
     {
       "id": 6,
       "name": "Supercopa Argentina",
       "code": "SCA",
-      "description": "The Supercopa Argentina is an annual football competition in Argentina contested between the winners of the Primera División and the Copa Argentina.",
+      "description": "La Supercopa Argentina est une compétition annuelle de football en Argentine, disputée entre les vainqueurs de la Primera División et de la Copa Argentina.",
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_632/6c662410356443.560e3888351bd.png"
     },
     {
       "id": 7,
-      "name": "A League",
+      "name": "A-League",
       "code": "AAL",
-      "description": "The A-League is the top-tier professional football league in Australia, featuring the country's best football clubs competing for the national championship.",
+      "description": "La A-League est la première division professionnelle de football en Australie, regroupant les meilleurs clubs du pays en compétition pour le championnat national.",
       "image": "https://static.wikia.nocookie.net/soccer-in-australia/images/b/b6/A-League_Logo.png/revision/latest/thumbnail/width/360/height/450?cb=20210619112059"
     },
     {
       "id": 8,
       "name": "Bundesliga",
       "code": "ABL",
-      "description": "The Bundesliga is the top professional football division in Austria, featuring clubs from Austria competing for the national title.",
+      "description": "La Bundesliga est la première division professionnelle de football en Autriche, où les clubs autrichiens se disputent le titre national.",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyX5-s6UnHs-roEyaUYnc5ATWOpgRWCe9fJg&s"
     },
     {
       "id": 9,
       "name": "Erste Liga",
       "code": "AEL",
-      "description": "The Erste Liga is the second-tier football league in Austria, where teams compete for promotion to the Bundesliga.",
+      "description": "L'Erste Liga est la deuxième division du football autrichien, où les équipes se disputent la promotion en Bundesliga.",
       "image": "https://www.fradi.hu/upload/768x0/e/zn/qaje1.jpg"
     },
     {
       "id": 10,
       "name": "Copa Liga Profesional",
       "code": "CLP",
-      "description": "The Copa Liga Profesional is an annual football competition in Argentina contested by teams from the Primera División.",
+      "description": "La Copa Liga Profesional est une compétition annuelle de football en Argentine disputée par les équipes de la Primera División.",
       "image": "https://acdn.mitiendanube.com/stores/138/621/products/copa-superliga1-9f0c5fef4170292d9216038215285641-640-0.jpg"
     }
-  ]}
-
-
-  
+  ]
+}
